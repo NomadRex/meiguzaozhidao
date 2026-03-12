@@ -15,6 +15,11 @@
     <itunes:email>rexfly.zhao@gmail.com</itunes:email>
   </itunes:owner>
   <itunes:image href="https://nomadrex.github.io/meiguzaozhidao/cover.jpg"/>
+  <image>
+    <url>https://nomadrex.github.io/meiguzaozhidao/cover.jpg</url>
+    <title>美股早知道</title>
+    <link>https://nomadrex.github.io/meiguzaozhidao/</link>
+  </image>
   <itunes:category text="Business">
     <itunes:category text="Investing"/>
   </itunes:category>
