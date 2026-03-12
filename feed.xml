@@ -30,6 +30,8 @@
     <itunes:duration>00:05:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <itunes:episodeType>full</itunes:episodeType>
+    <itunes:author>老赵 &amp; 小敏</itunes:author>
+    <itunes:image href="https://nomadrex.github.io/meiguzaozhidao/cover.jpg"/>
   </item>
   <!-- EPISODES_END -->
 </channel>
