@@ -9,7 +9,7 @@
   <atom:link href="https://nomadrex.github.io/meiguzaozhidao/feed.xml" rel="self" type="application/rss+xml"/>
   <language>zh-Hans</language>
   <description>🎙️ 每日美股深度解读播客。老赵和小敏带你拆解市场信号。盘前·盘中·盘后，三档节目全覆盖。⚠️ 仅供参考，不构成投资建议。</description>
-  <itunes:author>老赵 &amp; 小敏 | 美股早知道</itunes:author>
+  <itunes:author>Meiguzaozhidao</itunes:author>
   <itunes:owner>
     <itunes:name>美股早知道</itunes:name>
     <itunes:email>rexfly.zhao@gmail.com</itunes:email>
@@ -41,7 +41,7 @@
     <itunes:duration>00:04:52</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:author>老赵 &amp; 小敏</itunes:author>
+    <itunes:author>Meiguzaozhidao</itunes:author>
     <itunes:image href="https://nomadrex.github.io/meiguzaozhidao/cover.jpg"/>
   </item>
   <item>
@@ -53,7 +53,7 @@
     <itunes:duration>00:05:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:author>老赵 &amp; 小敏</itunes:author>
+    <itunes:author>Meiguzaozhidao</itunes:author>
     <itunes:image href="https://nomadrex.github.io/meiguzaozhidao/cover.jpg"/>
   </item>
   <!-- EPISODES_END -->
