@@ -21,6 +21,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <!-- EPISODES_START -->
+  <item>
+    <title>美股早知道·盘后复盘 | 2026-03-11</title>
+    <description><![CDATA[🎙️ 美股早知道·盘后复盘 — 2026-03-11\n\n每日美股深度解读。老赵和小敏带你拆解市场信号。\n\n⚠️ 仅供参考，不构成投资建议。]]></description>
+    <enclosure url="https://nomadrex.github.io/meiguzaozhidao/episodes/2026-03-11_美股早知道_盘后复盘___2026-03-11.mp3" length="3633596" type="audio/mpeg"/>
+    <guid isPermaLink="false">a936b4e8a3f235b50a4e72632155b6fc</guid>
+    <pubDate>Wed, 11 Mar 2026 05:00:00 GMT</pubDate>
+    <itunes:duration>00:05:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <!-- EPISODES_END -->
 </channel>
 </rss>
