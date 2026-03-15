@@ -27,6 +27,28 @@
   <itunes:type>episodic</itunes:type>
   <!-- EPISODES_START -->
   <item>
+    <title>美股早知道·深度研究 (2026-03-15)</title>
+    <description><![CDATA[[A] 大家好，欢迎收听「美股早知道」周日特别节目。我是老赵，今天是3月15号，星期天。周日呢我们不聊盘面，专门拿一只股票出来，掰开了揉碎了，好好做一期深度研究。
+
+[B] 我是小敏。今天的主角，我觉得不用卖关子了——英伟达，NVDA。这只股票可以说是过去三年美股最大的明星，没有之一。
+
+[A] 对，我们之前节目里零零散散聊过很多次，但一直没有系统地做一期深度研究。今天就把它当一份研报来讲，从商业模式到估值，全部过一遍。小敏，你先来，用最简单的话跟大家说说，英伟达到底是干嘛的。
+
+[B] 好。最简单一句话：英伟达是卖芯片的。但它卖的不是你手机里那种芯片，它卖的是算力——就是让电脑能够思考、能够学习的那种超级计算能力。你可以把它想象成AI时代的"卖铲人"。别人在挖金矿，它在卖铲子。
+
+[A] 这个比喻老了，但确实精准。具体来说呢，它最早是做显卡的，就是你打游戏、看4K视频需要的那个东西。但后来大家发现，哎，它的GPU架构天然适合做并行计算——就是同时处理大量数据。所以从大概2016、2017年开始，它就逐渐变成了AI训练和推理的核心硬件供应商。
+
+[B] 普通人其实每天都在用英伟达的东西]]></description>
+    <enclosure url="https://nomadrex.github.io/meiguzaozhidao/episodes/2026-03-15_美股早知道_深度研究__2026-03-15_.mp3" length="13949084" type="audio/mpeg"/>
+    <guid isPermaLink="false">1b54858128b85d67305c189d954bcfe7</guid>
+    <pubDate>Sun, 15 Mar 2026 05:00:00 GMT</pubDate>
+    <itunes:duration>00:20:12</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:author>Meiguzaozhidao</itunes:author>
+    <itunes:image href="https://nomadrex.github.io/meiguzaozhidao/cover.jpg"/>
+  </item>
+  <item>
     <title>美股早知道·一周综述 | 2026-03-14</title>
     <description><![CDATA[🎙️ 美股早知道·一周综述 | 2026-03-14
 
